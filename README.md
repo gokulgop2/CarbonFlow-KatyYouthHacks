@@ -6,7 +6,7 @@
 
 ## 🌳 Inspiration & Social Good Theme
 
-Our inspiration was to tackle a major climate challenge by creating a sustainable, market-based solution. The theme of **"social good"** is at the heart of our project. We believe the most effective way to benefit the community is to create powerful economic incentives for climate action. CarbonFlow does this by turning captured carbon, an environmental liability, into a valuable asset, empowering a circular economy where one industry's waste becomes another's raw material.
+My inspiration was to tackle a major climate challenge by creating a sustainable, market-based solution. The theme of **"social good"** is at the heart of our project. I believe the most effective way to benefit the community is to create powerful economic incentives for climate action. CarbonFlow does this by turning captured carbon, an environmental liability, into a valuable asset, empowering a circular economy where one industry's waste becomes another's raw material.
 
 ## ✨ What it Does
 
@@ -14,12 +14,12 @@ CarbonFlow is a feature-rich, full-stack application that serves as a complete e
 
 ## 🛠️ How We Built It
 
-We built CarbonFlow on a modern, decoupled architecture with a **React** frontend and a **Python/Flask** backend. The core intelligence is powered by the **Azure OpenAI Service** for strategic analysis and a custom-built **Vector Engine** for intelligent partner discovery.
+I built CarbonFlow on a modern, decoupled architecture with a **React** frontend and a **Python/Flask** backend. The core intelligence is powered by the **Azure OpenAI Service** for strategic analysis and a custom-built **Vector Engine** for intelligent partner discovery.
 
 ## 🏃 Challenges We Ran Into
 
-Our biggest challenge was ensuring the reliability of our complex AI analysis. We re-architected our backend from a single, massive API request to multiple, smaller, and more robust requests to ensure stability. This taught us a valuable lesson in resilient system design under the pressure of a deadline.
+The biggest challenge was ensuring the reliability of our complex AI analysis. I re-architected our backend from a single, massive API request to multiple, smaller, and more robust requests to ensure stability. This taught me a valuable lesson in resilient system design under the pressure of a deadline.
 
 ## 🚀 What's Next for CarbonFlow
 
-Our vision is to scale CarbonFlow into a global utility for the sustainability sector. Our next steps are to integrate real-time data feeds from sources like the EPA and build out a logistics module to analyze transportation costs and emissions.
+My vision is to scale CarbonFlow into a global utility for the sustainability sector. The next steps are to integrate real-time data feeds from sources like the EPA and build out a logistics module to analyze transportation costs and emissions.
