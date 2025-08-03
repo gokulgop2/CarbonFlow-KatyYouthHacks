@@ -12,7 +12,7 @@ My inspiration was to tackle a major climate challenge by creating a sustainable
 
 CarbonFlow is a feature-rich, full-stack application that serves as a complete ecosystem for the carbon utilization market. It connects CO₂ producers with consumers and uses an AI-powered "consultant" to provide deep strategic analysis, rank partnership opportunities, and even model the financial and environmental impact of any potential deal.
 
-## 🛠How We Built It
+## How We Built It
 
 I built CarbonFlow on a modern, decoupled architecture with a **React** frontend and a **Python/Flask** backend. The core intelligence is powered by the **Azure OpenAI Service** for strategic analysis and a custom-built **Vector Engine** for intelligent partner discovery.
 
